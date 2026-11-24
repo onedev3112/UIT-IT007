@@ -1,0 +1,591 @@
+{
+  "code": "W06-2",
+  "label": "Chương 5 (Phần 2)",
+  "source": "Lý thuyết/#Week06-Chapter5-2 2024.pdf",
+  "sha256": "09002e9b3af011cebf0e10134f9835ef3ca0e4db80c845ea4aabcbaed55b8b31",
+  "size_bytes": 8676884,
+  "mtime_ns": 1795509565239095600,
+  "page_count": 72,
+  "extraction_version": "1.0",
+  "extractor_sha256": "4c43ae4da72e0a00b73d4bfcda33359ab13d8d3ecd468494f8b085cd028101f6",
+  "output": "Lý thuyết/pdf/W06-2.md",
+  "pages": [
+    {
+      "number": 1,
+      "title": "ĐẠI HỌC QUỐC GIA TP. HỒ CHÍ MINH",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 572
+    },
+    {
+      "number": 2,
+      "title": "Diễn tả được cơ chế hoạt động của semaphore và monitor",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 535
+    },
+    {
+      "number": 3,
+      "title": "7. Semaphore",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 216
+    },
+    {
+      "number": 4,
+      "title": "SEMAPHORE",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 473
+    },
+    {
+      "number": 5,
+      "title": "5.7.1. Định nghĩa semaphore",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 529
+    },
+    {
+      "number": 6,
+      "title": "5.7.1. Định nghĩa semaphore",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 476
+    },
+    {
+      "number": 7,
+      "title": "5.7.1. Định nghĩa semaphore",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 167
+    },
+    {
+      "number": 8,
+      "title": "5.7.1. Định nghĩa semaphore",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 226
+    },
+    {
+      "number": 9,
+      "title": "5.7.1. Định nghĩa semaphore",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 274
+    },
+    {
+      "number": 10,
+      "title": "5.7.1. Định nghĩa semaphore",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 205
+    },
+    {
+      "number": 11,
+      "title": "5.7.1. Định nghĩa semaphore",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 203
+    },
+    {
+      "number": 12,
+      "title": "5.7.1. Định nghĩa semaphore",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 263
+    },
+    {
+      "number": 13,
+      "title": "5.7.1. Định nghĩa semaphore",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 288
+    },
+    {
+      "number": 14,
+      "title": "5.7.1. Định nghĩa semaphore",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 288
+    },
+    {
+      "number": 15,
+      "title": "5.7.1. Định nghĩa semaphore",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 353
+    },
+    {
+      "number": 16,
+      "title": "SEMAPHORE",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 269
+    },
+    {
+      "number": 17,
+      "title": "5.7.2. Phân loại semaphore",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 281
+    },
+    {
+      "number": 18,
+      "title": "SEMAPHORE",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 348
+    },
+    {
+      "number": 19,
+      "title": "5.7.3. Hiện thực semaphore",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 755
+    },
+    {
+      "number": 20,
+      "title": "5.7.3. Hiện thực semaphore",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 548
+    },
+    {
+      "number": 21,
+      "title": "5.7.3. Hiện thực semaphore",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 254
+    },
+    {
+      "number": 22,
+      "title": "5.7.3. Hiện thực semaphore",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 522
+    },
+    {
+      "number": 23,
+      "title": "SEMAPHORE",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 299
+    },
+    {
+      "number": 24,
+      "title": "5.7.4. Ứng dụng semaphore",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 303
+    },
+    {
+      "number": 25,
+      "title": "5.7.4. Ứng dụng semaphore",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 376
+    },
+    {
+      "number": 26,
+      "title": "5.7.4. Ứng dụng semaphore",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 568
+    },
+    {
+      "number": 27,
+      "title": "SEMAPHORE",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 379
+    },
+    {
+      "number": 28,
+      "title": "5.7.5. Một số nhận xét về semaphore",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 488
+    },
+    {
+      "number": 29,
+      "title": "5.7.5. Một số nhận xét về semaphore",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 845
+    },
+    {
+      "number": 30,
+      "title": "SEMAPHORE",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 429
+    },
+    {
+      "number": 31,
+      "title": "5.7.6. Các vấn đề khi sử dụng semaphore",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 372
+    },
+    {
+      "number": 32,
+      "title": "5.7.6. Các vấn đề khi sử dụng semaphore",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 420
+    },
+    {
+      "number": 33,
+      "title": "MONITOR",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 424
+    },
+    {
+      "number": 34,
+      "title": "5.8.1. Định nghĩa monitor",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 695
+    },
+    {
+      "number": 35,
+      "title": "5.8.1. Định nghĩa monitor",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 319
+    },
+    {
+      "number": 36,
+      "title": "5.8.1. Định nghĩa monitor",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 459
+    },
+    {
+      "number": 37,
+      "title": "MONITOR",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 399
+    },
+    {
+      "number": 38,
+      "title": "5.8.2. Condition variable",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 634
+    },
+    {
+      "number": 39,
+      "title": "5.8.2. Condition variable",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 462
+    },
+    {
+      "number": 40,
+      "title": "5.8.2. Condition variable",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 306
+    },
+    {
+      "number": 41,
+      "title": "LIVENESS",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 334
+    },
+    {
+      "number": 42,
+      "title": "5.9 Liveness",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 446
+    },
+    {
+      "number": 43,
+      "title": "5.9 Liveness",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 719
+    },
+    {
+      "number": 44,
+      "title": "BÀI TOÁN ĐỒNG BỘ BOUNDED-BUFFER",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 340
+    },
+    {
+      "number": 45,
+      "title": "5.10.1. Phát biểu bài toán bounded-buffer",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 320
+    },
+    {
+      "number": 46,
+      "title": "5.10.1. Phát biểu bài toán bounded-buffer",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 318
+    },
+    {
+      "number": 47,
+      "title": "BÀI TOÁN ĐỒNG BỘ BOUNDED-BUFFER",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 269
+    },
+    {
+      "number": 48,
+      "title": "Tài nguyên 2",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 492
+    },
+    {
+      "number": 49,
+      "title": "Tài nguyên 2",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 451
+    },
+    {
+      "number": 50,
+      "title": "Tài nguyên 2",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 366
+    },
+    {
+      "number": 51,
+      "title": "BÀI TOÁN ĐỒNG BỘ BOUNDED-BUFFER",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 374
+    },
+    {
+      "number": 52,
+      "title": "5.10.3. Các lỗi thường gặp",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 538
+    },
+    {
+      "number": 53,
+      "title": "5.10.3. Các lỗi thường gặp",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 494
+    },
+    {
+      "number": 54,
+      "title": "BÀI TOÁN ĐỒNG BỘ READERS-WRITERS",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 460
+    },
+    {
+      "number": 55,
+      "title": "5.11.1. Phát biểu bài toán Readers-Writers",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 277
+    },
+    {
+      "number": 56,
+      "title": "5.11.1. Phát biểu bài toán Readers-Writers",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 400
+    },
+    {
+      "number": 57,
+      "title": "5.11.1. Phát biểu bài toán Readers-Writers",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 676
+    },
+    {
+      "number": 58,
+      "title": "BÀI TOÁN ĐỒNG BỘ READERS-WRITERS",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 638
+    },
+    {
+      "number": 59,
+      "title": "5.11.2. Giải pháp cho bài toán Readers-Writers",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 438
+    },
+    {
+      "number": 60,
+      "title": "wait(mutex);",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 733
+    },
+    {
+      "number": 61,
+      "title": "BÀI TOÁN ĐỒNG BỘ DINING-PHILOSOPHER",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 567
+    },
+    {
+      "number": 62,
+      "title": "5.12.1. Phát biểu bài toán Dining-Philosopher",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 466
+    },
+    {
+      "number": 63,
+      "title": "5.12.1. Phát biểu bài toán Dining-Philosopher",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 253
+    },
+    {
+      "number": 64,
+      "title": "BÀI TOÁN ĐỒNG BỘ DINING-PHILOSOPHER",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 571
+    },
+    {
+      "number": 65,
+      "title": "5.12.2. Giải pháp cho bài toán Dining-Philosopher",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 430
+    },
+    {
+      "number": 66,
+      "title": "5.12.2. Giải pháp cho bài toán Dining-Philosopher",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 349
+    },
+    {
+      "number": 67,
+      "title": "5.12.2. Giải pháp cho bài toán Dining-Philosopher",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 565
+    },
+    {
+      "number": 68,
+      "title": "5.12.2. Giải pháp cho bài toán Dining-Philosopher",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 547
+    },
+    {
+      "number": 69,
+      "title": "5.12.2. Giải pháp cho bài toán Dining-Philosopher",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 767
+    },
+    {
+      "number": 70,
+      "title": "5.12.2. Giải pháp cho bài toán Dining-Philosopher",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 292
+    },
+    {
+      "number": 71,
+      "title": "Tóm tắt lại nội dung buổi học",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 279
+    },
+    {
+      "number": 72,
+      "title": "THẢO LUẬN",
+      "flags": [
+        "ít chữ hoặc không có chữ; xem PDF gốc",
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 71
+    }
+  ]
+}

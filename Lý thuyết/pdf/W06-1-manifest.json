@@ -1,0 +1,551 @@
+{
+  "code": "W06-1",
+  "label": "Chương 5 (Phần 1)",
+  "source": "Lý thuyết/#Week06-Chapter5-1 2024.pdf",
+  "sha256": "7a3e0c7487ff15843db96787bbdda310c16352df95cd3e2c868266b292fa3dec",
+  "size_bytes": 7345922,
+  "mtime_ns": 1795509527582451800,
+  "page_count": 67,
+  "extraction_version": "1.0",
+  "extractor_sha256": "4c43ae4da72e0a00b73d4bfcda33359ab13d8d3ecd468494f8b085cd028101f6",
+  "output": "Lý thuyết/pdf/W06-1.md",
+  "pages": [
+    {
+      "number": 1,
+      "title": "ĐẠI HỌC QUỐC GIA TP. HỒ CHÍ MINH",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 392
+    },
+    {
+      "number": 2,
+      "title": "Trình bày được khái niệm race condition và mô tả được vấn đề",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 511
+    },
+    {
+      "number": 3,
+      "title": "1. Race condition",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 216
+    },
+    {
+      "number": 4,
+      "title": "RACE CONDITION",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 535
+    },
+    {
+      "number": 5,
+      "title": "5.1.1. Bài toán Producer vs. Consumer",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 249
+    },
+    {
+      "number": 6,
+      "title": "5.1.1. Bài toán Producer vs. Consumer",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 565
+    },
+    {
+      "number": 7,
+      "title": "5.1.1. Bài toán Producer vs. Consumer",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 422
+    },
+    {
+      "number": 8,
+      "title": "buffer[8]",
+      "flags": [
+        "ít chữ hoặc không có chữ; xem PDF gốc"
+      ],
+      "text_chars": 25
+    },
+    {
+      "number": 9,
+      "title": "buffer[8]",
+      "flags": [
+        "ít chữ hoặc không có chữ; xem PDF gốc"
+      ],
+      "text_chars": 9
+    },
+    {
+      "number": 10,
+      "title": "5.1.1. Bài toán Producer vs. Consumer",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 425
+    },
+    {
+      "number": 11,
+      "title": "5.1.1. Bài toán Producer vs. Consumer",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 981
+    },
+    {
+      "number": 12,
+      "title": "RACE CONDITION",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 351
+    },
+    {
+      "number": 13,
+      "title": "5.1.2. Bài toán cấp phát PID",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 462
+    },
+    {
+      "number": 14,
+      "title": "RACE CONDITION",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 102
+    },
+    {
+      "number": 15,
+      "title": "5.1.3. Race condition",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 578
+    },
+    {
+      "number": 16,
+      "title": "5.1.3. Race condition",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 366
+    },
+    {
+      "number": 17,
+      "title": "VẤN ĐỀ VÙNG TRANH CHẤP",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 220
+    },
+    {
+      "number": 18,
+      "title": "5.2 Vấn đề vùng tranh chấp",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 524
+    },
+    {
+      "number": 19,
+      "title": "5.2 Vấn đề vùng tranh chấp",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 404
+    },
+    {
+      "number": 20,
+      "title": "LỜI GIẢI CHO BÀI TOÁN",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 449
+    },
+    {
+      "number": 21,
+      "title": "5.3.1. Yêu cầu dành cho lời giải",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 688
+    },
+    {
+      "number": 22,
+      "title": "5.3.1. Yêu cầu dành cho lời giải",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 290
+    },
+    {
+      "number": 23,
+      "title": "5.3.1. Yêu cầu dành cho lời giải",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 242
+    },
+    {
+      "number": 24,
+      "title": "5.3.1. Yêu cầu dành cho lời giải",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 406
+    },
+    {
+      "number": 25,
+      "title": "5.3.1. Yêu cầu dành cho lời giải",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 311
+    },
+    {
+      "number": 26,
+      "title": "LỜI GIẢI CHO BÀI TOÁN",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 405
+    },
+    {
+      "number": 27,
+      "title": "5.3.2. Phân loại giải pháp",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 501
+    },
+    {
+      "number": 28,
+      "title": "5.3.2. Phân loại giải pháp",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 713
+    },
+    {
+      "number": 29,
+      "title": "LỜI GIẢI CHO BÀI TOÁN",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 301
+    },
+    {
+      "number": 30,
+      "title": "5.3.3. Cấm ngắt",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 354
+    },
+    {
+      "number": 31,
+      "title": "CÁC GIẢI PHÁP PHẦN MỀM",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 293
+    },
+    {
+      "number": 32,
+      "title": "5.4.1. Giải pháp phần mềm 1",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 390
+    },
+    {
+      "number": 33,
+      "title": "5.4.1. Giải pháp phần mềm 1",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 505
+    },
+    {
+      "number": 34,
+      "title": "5.4.1. Giải pháp phần mềm 1",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 326
+    },
+    {
+      "number": 35,
+      "title": "5.4.1. Giải pháp phần mềm 1",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 472
+    },
+    {
+      "number": 36,
+      "title": "5.4.1. Giải pháp phần mềm 1",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 445
+    },
+    {
+      "number": 37,
+      "title": "CÁC GIẢI PHÁP PHẦN MỀM",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 290
+    },
+    {
+      "number": 38,
+      "title": "5.4.2. Giải pháp phần mềm 2",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 484
+    },
+    {
+      "number": 39,
+      "title": "5.4.2. Giải pháp phần mềm 2",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 401
+    },
+    {
+      "number": 40,
+      "title": "5.4.2. Giải pháp phần mềm 2",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 155
+    },
+    {
+      "number": 41,
+      "title": "CÁC GIẢI PHÁP PHẦN MỀM",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 415
+    },
+    {
+      "number": 42,
+      "title": "5.4.3. Giải pháp Peterson",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 518
+    },
+    {
+      "number": 43,
+      "title": "5.4.3. Giải pháp Peterson",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 407
+    },
+    {
+      "number": 44,
+      "title": "5.4.3. Giải pháp Peterson",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 350
+    },
+    {
+      "number": 45,
+      "title": "5.4.3. Giải pháp Peterson",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 607
+    },
+    {
+      "number": 46,
+      "title": "5.4.3. Giải pháp Peterson",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 535
+    },
+    {
+      "number": 47,
+      "title": "CÁC GIẢI PHÁP PHẦN MỀM",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 527
+    },
+    {
+      "number": 48,
+      "title": "5.4.4. Giải pháp Peterson và kiến trúc hiện đại",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 557
+    },
+    {
+      "number": 49,
+      "title": "5.4.4. Giải pháp Peterson và kiến trúc hiện đại",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 335
+    },
+    {
+      "number": 50,
+      "title": "5.4.4. Giải pháp Peterson và kiến trúc hiện đại",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 493
+    },
+    {
+      "number": 51,
+      "title": "5.4.4. Giải pháp Peterson và kiến trúc hiện đại",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 654
+    },
+    {
+      "number": 52,
+      "title": "CÁC HỖ TRỢ TỪ PHẦN CỨNG",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 250
+    },
+    {
+      "number": 53,
+      "title": "5.5.1. Memory Barrier",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 750
+    },
+    {
+      "number": 54,
+      "title": "5.5.1. Memory Barrier",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 701
+    },
+    {
+      "number": 55,
+      "title": "5.5.1. Memory Barrier",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 521
+    },
+    {
+      "number": 56,
+      "title": "CÁC HỖ TRỢ TỪ PHẦN CỨNG",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 247
+    },
+    {
+      "number": 57,
+      "title": "MUTEX LOCKS",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 517
+    },
+    {
+      "number": 58,
+      "title": "5.6.1. Định nghĩa mutex locks",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 128
+    },
+    {
+      "number": 59,
+      "title": "5.6.1. Định nghĩa mutex locks",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 355
+    },
+    {
+      "number": 60,
+      "title": "5.6.1. Định nghĩa mutex locks",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 275
+    },
+    {
+      "number": 61,
+      "title": "MUTEX LOCKS",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 449
+    },
+    {
+      "number": 62,
+      "title": "5.6.2. Mutex locks không busy waiting",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 487
+    },
+    {
+      "number": 63,
+      "title": "5.6.2. Mutex locks không busy waiting",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 602
+    },
+    {
+      "number": 64,
+      "title": "MUTEX LOCKS",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 262
+    },
+    {
+      "number": 65,
+      "title": "5.6.3. Cách sử dụng mutex locks",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 602
+    },
+    {
+      "number": 66,
+      "title": "Tóm tắt lại nội dung buổi học",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 232
+    },
+    {
+      "number": 67,
+      "title": "THẢO LUẬN",
+      "flags": [
+        "ít chữ hoặc không có chữ; xem PDF gốc",
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 71
+    }
+  ]
+}

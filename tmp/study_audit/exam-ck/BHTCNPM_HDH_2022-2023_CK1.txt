@@ -1,0 +1,457 @@
+--- PDF PAGE 1 ---
+Trang 1/6 - Đề số 1 
+ 
+TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN 
+ĐỀ THI CUỐI HK 1 (2022-2023) 
+KHOA KỸ THUẬT MÁY TÍNH 
+Môn thi: HỆ ĐIỀU HÀNH 
+Mã đề số: 1 
+Thời gian thi: 80 phút 
+ 
+(Sinh viên không được sử dụng tài liệu. Làm bài trực tiếp trên đề) 
+ 
+ 
+Chữ ký của Cán bộ coi thi 
+ 
+ 
+ 
+ 
+STT 
+ 
+……. 
+ 
+Họ và tên: …………………………………………… 
+MSSV: ………………………………………………. 
+Phòng thi: ……………………………………………. 
+ĐIỂM 
+Bằng số:  ………………. 
+Bằng chữ: ……………… 
+ 
+PHẦN 1. TRẮC NGHIỆM (7.5đ) – 25 câu 
+Sinh viên chọn câu trả lời chính xác nhất và điền vào bảng trả lời sau:  
+Câu 1: 
+Câu 6: 
+Câu 11: 
+Câu 16: 
+Câu 21: 
+Câu 2: 
+Câu 7: 
+Câu 12: 
+Câu 17: 
+Câu 22: 
+Câu 3: 
+Câu 8: 
+Câu 13: 
+Câu 18: 
+Câu 23: 
+Câu 4: 
+Câu 9: 
+Câu 14: 
+Câu 19: 
+Câu 24: 
+Câu 5: 
+Câu 10: 
+Câu 15: 
+Câu 20: 
+Câu 25: 
+ 
+1. Chọn phát biểu ĐÚNG về cơ chế phân trang? (G1) 
+A. Bộ nhớ vật lý được chia thành các khung trang còn bộ nhớ luận lý được chia thành các trang.  
+B. Hệ điều hành tạo một bảng phân trang cho tất cả các tiến trình.  
+ 
+C. Thanh ghi page-table length (PTLR) xác định vị trí của bảng phân trang. 
+ 
+D. Kích thước của bảng phân trang được xác định bởi thanh ghi page-table base (PTBR).   
+2. Các giải pháp đồng bộ được chia thành những nhóm nào? (G2) 
+A. Busy Waiting – Sleep & Wakeup.  
+B. Busy Waiting – Circular Wait. 
+C. Sleep & Wakeup – Hold & Wait.  
+D. Sleep & Wakeup – Mutual Exclusion. 
+3. Xét một hệ thống có bộ nhớ được cấp phát theo cơ chế phân trang với kích thước trang và khung trang 
+là 1024 byte. Biết các trang 1, 2, 3, 4 của bộ nhớ luận lý lần lượt được nạp vào khung trang 5, 2, 4, 1 của 
+bộ nhớ vật lý. Hỏi địa chỉ vật lý 5524 nằm trong trang nào của bộ nhớ luận lý? (G1) 
+A. 1 
+ 
+ 
+B. 2 
+ 
+ 
+C. 3 
+ 
+ 
+D. 4 
+4. Chọn phát biểu SAI trong các phát biểu sau? (G1) 
+A. Nếu hệ thống đang ở trạng thái an toàn thì tồn tại ít nhất một chuỗi thứ tự an toàn trong hệ thống.  
+B. Nếu đồ thị cấp phát tài nguyên có chu trình thì có deadlock xảy ra. 
+C. Nếu hệ thống đang ở trạng thái không an toàn thì có thể xảy ra deadlock. 
+D. Một tiến trình gọi là deadlock nếu nó đang đợi một sự kiện mà sẽ không bao giờ xảy ra.
+
+--- PDF PAGE 2 ---
+Trang 2/6 - Đề số 1 
+ 
+5. Hệ thống nào trong các hệ thống bên dưới có deadlock xảy ra? (G1) 
+(1) Hệ thống có 3 tiến trình P1, P2, P3 và 3 loại tài nguyên R1, R2, R3 – mỗi loại có 1 thực thể. P1 giữ 
+1 R1 và yêu cầu 1 R3, P2 giữ 1 R2 và yêu cầu 1 R3, P3 giữ 1 R3 và yêu cầu 1 R1.  
+(2) Hệ thống có 3 tiến trình P1, P2, P3 và 2 loại tài nguyên R1, R2 – mỗi loại có 1 thực thể. P1 giữ 1 
+R1 và yêu cầu 1 R2, P2 giữ 1 R2, P3 yêu cầu 1 R2. 
+(3) Hệ thống có 3 tiến trình P1, P2, P3 và 2 loại tài nguyên R1, R2 – mỗi loại có 2 thực thể. P1 yêu cầu 
+1 R1 và 1 R2, P2 giữ 1 R1 và 1 R2, P3 giữ 1 R1 và 1 R2. 
+A. (1)  
+ 
+B. (1) và (2) 
+ 
+C. (2)  
+ 
+D. (3) 
+6. Xét giải pháp đồng bộ sử dụng semaphore để giải quyết bài toán các triết gia ăn tối như bên dưới. 
+Biết chopstick là mảng gồm có 5 semaphore và giá trị khởi tạo của các semaphore này là 1. Chọn phát 
+biểu ĐÚNG về giải pháp này? (G1) 
+ 
+A. Giải pháp này có thể gây ra deadlock. 
+ 
+B. Giải pháp này cho phép tất cả các triết gia có thể ăn tối cùng một lúc. 
+C. Giải pháp này cho phép triết gia cầm các đũa chỉ khi cả hai chiếc đũa đều sẵn sàng. 
+ 
+D. Giải pháp này không gây ra deadlock nhưng có thể gây ra starvation. 
+7. Xét một hệ thống máy tính có 5 tiến trình: P1, P2, P3, P4, P5 và 4 loại tài nguyên: R1, R2, R3, R4. 
+Tại thời điểm t0, trạng thái của hệ thống như sau: 
+ 
+Allocation 
+Max 
+Tiến trình  R1  
+R2  
+R3  
+R4  
+R1  
+R2  
+R3  
+R4 
+P1 
+1  
+2  
+2  
+1  
+3 
+2 
+4  
+3 
+P2 
+3  
+2  
+4 
+3  
+5 
+3 
+6  
+4 
+P3 
+5  
+1  
+2  
+2  
+7  
+5  
+5  
+5 
+P4 
+3  
+1  
+2  
+1  
+3  
+4  
+7  
+6 
+P5 
+1  
+2  
+1  
+4  
+4  
+6  
+3  
+7 
+Lựa chọn nào dưới đây KHÔNG phải là một chuỗi an toàn của hệ thống? (G1) 
+A. <P5, P1, P4, P2, P3> 
+ 
+ 
+B. <P2, P4, P3, P1, P5> 
+C. <P3, P4, P1, P2, P5> 
+ 
+ 
+D. <P1, P4, P2, P5, P3>   
+8. Giả sử bộ nhớ chính được phân chia thành các phân vùng cố định theo thứ tự như sau: 1 (250 KB), 2 
+(150 KB), 3 (180 KB), 4 (320 KB), 5 (360 KB). Biết con trỏ đang nằm ở vùng nhớ 3, vùng nhớ 3 đã 
+được cấp phát, các vùng nhớ khác vẫn còn trống. Hỏi tiến trình P có kích thước 240 KB sẽ được cấp 
+phát vùng nhớ nào, nếu dùng giải thuật first-fit? (G1) 
+A. 4 
+ 
+ 
+B. 3 
+ 
+ 
+C. 5 
+ 
+ 
+D. 1 
+Available 
+R1  
+R2  
+R3  
+R4 
+3 
+4 
+3 
+3
+
+--- PDF PAGE 3 ---
+Trang 3/6 - Đề số 1 
+ 
+9. Cho các yêu cầu sau: 
+(1) Kích thước của mỗi tiến trình là cố định và phải được xác định trước khi được nạp vào bộ nhớ. 
+(2) Hệ điều hành phải quản lý sự di chuyển của trang/đoạn giữa bộ nhớ chính và bộ nhớ thứ cấp.  
+(3) Kích thước của các tiến trình phải nhỏ hơn kích thước của bộ nhớ vật lý. 
+Yêu cầu nào là điều kiện cần để cài đặt bộ nhớ ảo? (G1) 
+A. (1)  
+ 
+B. (2)  
+ 
+C. (2) và (3) 
+ 
+D. (1) và (2) 
+10. Để cho phép một tiến trình đợi trong monitor, cần phải khai báo loại biến nào? (G1) 
+A. Biến điều kiện. 
+ 
+ 
+ 
+B. Biến cục bộ. 
+ 
+ 
+ 
+C. Biến hàng đợi. 
+ 
+ 
+ 
+D. Biến thủ tục.  
+11. Kỹ thuật cài đặt bộ nhớ ảo nào sau đây cho phép các trang của tiến trình chỉ được nạp vào bộ nhớ 
+chính khi được yêu cầu? (G2) 
+A. Dynamic loading.  
+ 
+ 
+B. Dynamic linking. 
+C. Demand paging. 
+ 
+ 
+ 
+D. Frame allocation. 
+12. Giải pháp đồng bộ nào sau đây KHÔNG không cùng nhóm với tất cả các giải pháp còn lại? (G1) 
+A. Semaphore.  
+B. Monitor.   
+C. Critical Region 
+D. Cấm ngắt.  
+Sử dụng các dữ liệu sau để trả lời câu hỏi 13, 14: 
+Xét một không gian địa chỉ ảo có 128 trang, mỗi trang có kích thước 4096 byte được ánh xạ vào bộ 
+nhớ vật lý có 32 khung trang.  
+13. Chỉ số khung (f) được biểu diễn bởi bao nhiêu bit? (G1) 
+A. 5 
+ 
+ 
+B. 7 
+ 
+ 
+C. 19  
+ 
+D. 11 
+14. Kích thước bảng phân trang là bao nhiêu byte, nếu mỗi mục (entry) trong bảng phân trang cần 4 
+byte? (G1) 
+A. 128  
+ 
+B. 4096 
+ 
+C. 512  
+ 
+D. 32 
+15. Xét một hệ thống sử dụng kỹ thuật phân trang với bảng trang được lưu trữ trong bộ nhớ chính. Nếu 
+sử dụng TLBs với hit ratio α = 0.8 thì thời gian truy xuất bộ nhớ trong hệ thống (effective access time) 
+EAT = 240ns. Biết thời gian một chu kỳ truy xuất bộ nhớ (x) là 180ns. Hỏi nếu α = 0.95 thì EAT bằng 
+bao nhiêu? (G1) 
+A. 216ns 
+ 
+B. 213ns 
+ 
+C. 171ns 
+ 
+D. 189ns 
+16. Trong giải thuật thay trang LRU, trang được chọn để thay thế có đặc điểm gì? (G1) 
+A. Trang nhớ có thời điểm tham chiếu nhỏ nhất. 
+B. Trang nhớ được tham chiếu trễ nhất trong tương lai. 
+C. Trang nhớ đầu tiên được nạp vào hệ thống. 
+ 
+ 
+D. Trang nhớ vừa được thay thế gần đây nhất. 
+17. Chọn phát biểu SAI về giải pháp tập làm việc? (G1) 
+A. Khi sử dụng giải pháp tập làm việc, nếu tổng kích thước tất cả các tập làm việc của các tiến trình 
+trong hệ thống nhỏ hơn số khung trang của hệ thống thì một trong các tiến trình đang thực thi sẽ bị tạm 
+dừng.  
+B. Giải pháp tập làm việc được thiết kế dựa trên nguyên lý cục bộ. 
+C. Mục tiêu của giải pháp tập làm việc là xác định tiến trình thực sự sử dụng bao nhiêu khung trang. 
+D. Giải pháp tập làm việc loại trừ được tình trạng trì trệ mà vẫn đảm bảo mức độ đa chương.  
+18. Trên hệ thống có nhiều bộ xử lý (CPU), giải pháp đồng bộ Cấm ngắt KHÔNG đảm bảo tính chất 
+loại trừ tương hỗ là do nguyên nhân nào? (G1) 
+A. Chỉ cấm ngắt được tại CPU thực thi lệnh đó, các CPU khác vẫn có thể truy cập bộ nhớ chia sẻ.  
+B. Tất cả CPU đều không thể truy cập bộ nhớ chia sẻ khi Cấm ngắt được thực thi. 
+C. Cấm ngắt cho phép đọc và ghi một biến trong một thao tác atomic (không chia cắt được). 
+D. Deadlock xảy ra trên tất cả các CPU khi Cấm ngắt được thực thi.
+
+--- PDF PAGE 4 ---
+Trang 4/6 - Đề số 1 
+ 
+19. Trong cơ chế phân trang, bảng phân trang được dùng để làm gì? (G1) 
+A. Ánh xạ địa chỉ luận lý thành địa chỉ thực.  
+B. Chọn khối bộ nhớ trống để cấp phát cho một tiến trình.   
+C. Gom các vùng nhớ không liên tục thành vùng nhớ liên tục. 
+D. Chuyển tiến trình ra khỏi bộ nhớ chính và lưu trên một hệ thống lưu trữ phụ.  
+20. Chọn phát biểu SAI về đồ thị wait-for? (G1)  
+A. Đồ thị wait-for được xây dựng từ đồ thị cấp phát tài nguyên. 
+B. Đồ thị wait-for được dùng để phát hiện deadlock khi mỗi loại tài nguyên chỉ có một thực thể. 
+C. Các đỉnh của đồ thị wait-for là các loại tài nguyên.  
+D. Nếu đồ thị wait-for có chu trình thì có deadlock xảy ra trong hệ thống.   
+21. Chọn phát biểu SAI trong các phát biểu sau đây? (G1) 
+A. Semaphore được chia thành hai loại là counting semaphore và binary semaphore. 
+ 
+B. Để cài đặt được semaphore, cần có sự hỗ trợ của hệ điều hành.  
+C. Khi một tiến trình phải chờ trên semaphore S, nó sẽ bị blocked và được đặt trong hàng đợi 
+semaphore. Hàng đợi này là danh sách liên kết các PCB. 
+D. Khi thực thi lệnh wait() trên semaphore S thì giá trị semaphore sẽ bị giảm đi 1 đơn vị. Kế đó nếu 
+giá trị này không dương thì tiến trình thực hiện lệnh wait() sẽ bị blocked. 
+22. Chọn phát biểu ĐÚNG trong các phát biểu sau đây? (G1) 
+A. Ngăn deadlock sử dụng tài nguyên hiệu quả thông qua việc kiểm tra trạng thái an toàn của hệ thống. 
+B. So với giải pháp tránh deadlock, ngăn deadlock vẫn đảm bảo hiệu suất sử dụng tài nguyên tối đa 
+đến mức có thể. 
+C. Giải thuật tránh deadlock sẽ yêu cầu mỗi tiến trình khai báo số lượng tài nguyên tối thiểu cần để 
+thực hiện công việc. 
+D. Khi deadlock xảy ra, hệ thống có thể tự phục hồi bằng cách bẻ gãy chu trình deadlock thông qua 
+việc chấm dứt một hay nhiều tiến trình. 
+23. “Không cho phép (ít nhất) một trong 4 điều kiện cần cho deadlock” là đặc điểm của phương pháp 
+giải quyết deadlock nào? (G1) 
+A. Tránh deadlock 
+ 
+ 
+ 
+B. Ngăn deadlock 
+ 
+C. Bỏ qua deadlock 
+ 
+ 
+ 
+D. Phát hiện deadlock và phục hồi hệ thống 
+24. Địa chỉ lệnh và dữ liệu có thể được chuyển đổi thành địa chỉ thực tại thời điểm biên dịch nếu thỏa 
+mãn điều kiện nào? (G1) 
+A. Địa chỉ nạp chương trình (trong bộ nhớ) phải được biết trước. 
+ 
+ 
+ 
+ 
+B. Kích thước chương trình phải được biết trước. 
+C. Bộ nhớ phải được chia thành các phân vùng có kích thước bằng nhau.  
+ 
+ 
+ 
+D. Trong quá trình thực thi, tiến trình chỉ có thể di chuyển trên một tập các trang nhớ cho trước. 
+25. Cho các tính chất sau: 
+(1) Khi một tiến trình P đang thưc thi trong vùng tranh chấp của nó thì không có tiến trình Q nào khác 
+đang thưc thi trong vùng tranh chấp của Q. 
+(2) Một tiến trình tạm dừng bên ngoài vùng tranh chấp không được ngăn cản các tiến trình khác vào 
+vùng tranh chấp.  
+(3) Các tiến trình phải từ bỏ CPU khi vào vùng tranh chấp. 
+(4) Mỗi tiến trình chỉ phải chờ để được vào vùng tranh chấp trong một khoảng thời gian có hạn định 
+nào đó. Không xảy ra tình trạng đói tài nguyên (starvation). 
+(5) Một tiến trình tạm dừng bên ngoài vùng tranh chấp không được giữ bất cứ tài nguyên nào.  
+Lời giải dành cho vấn đề vùng tranh chấp KHÔNG cần phải thỏa mãn tính chất nào ở trên? (G1) 
+A. (2), (4), (5)  
+B. (3), (5)  
+ 
+C. (1), (2), (4)  
+D. (1), (3)
+
+--- PDF PAGE 5 ---
+Trang 5/6 - Đề số 1 
+ 
+PHẦN 2. TỰ LUẬN (2.5đ) – (G1) 
+1 (1.5đ). Giả sử một tiến trình được cấp 4 khung trang trong bộ nhớ vật lý và 9 trang trong bộ nhớ ảo. 
+Tại thời điểm nạp tiến trình vào, 4 khung trang trên bộ nhớ vật lý này đang trống. Tiến trình truy xuất 9 
+trang (1, 2, 3, 4, 5, 6, 7, 8, 9) trong bộ nhớ ảo theo thứ tự như sau:  
+2 3 2 7 9 6 8 1 5 1 3 7 8 4 6 2 4 5 1 9 
+a. (0.5đ) Tại thời điểm tiến trình truy xuất trang nhớ số 5 lần đầu tiên, trang nhớ nào sẽ bị thay thế, nếu 
+hệ điều hành thay trang theo giải thuật FIFO? 
+b. (1đ) Vẽ bảng minh họa thuật toán và tính số lỗi trang khi hệ điều hành thay trang theo giải thuật 
+OPT. 
+2 (1đ). Khi cài đặt bảng phân trang, translation look-aside buffers (TLBs) thường được sử dụng. Mô tả 
+vai trò của TLBs trong trường hợp này và giải thích lý do vì sao nó được sử dụng?   
+Sinh viên làm bài tự luận vào phần bên dưới: 
+ ....................................................................................................................................................................  
+ ....................................................................................................................................................................  
+ ....................................................................................................................................................................  
+ ....................................................................................................................................................................  
+ ....................................................................................................................................................................  
+ ....................................................................................................................................................................  
+ ....................................................................................................................................................................  
+ ....................................................................................................................................................................  
+ ....................................................................................................................................................................  
+ ....................................................................................................................................................................  
+ ....................................................................................................................................................................  
+ ....................................................................................................................................................................  
+ ....................................................................................................................................................................  
+ ....................................................................................................................................................................  
+ ....................................................................................................................................................................  
+ ....................................................................................................................................................................  
+ ....................................................................................................................................................................  
+ ....................................................................................................................................................................  
+ ....................................................................................................................................................................  
+ ....................................................................................................................................................................  
+ ....................................................................................................................................................................  
+ ....................................................................................................................................................................
+
+--- PDF PAGE 6 ---
+Trang 6/6 - Đề số 1 
+ 
+ ....................................................................................................................................................................  
+ ....................................................................................................................................................................  
+ ....................................................................................................................................................................  
+ ....................................................................................................................................................................  
+ ....................................................................................................................................................................  
+ ....................................................................................................................................................................  
+ ....................................................................................................................................................................  
+ ....................................................................................................................................................................  
+ ....................................................................................................................................................................  
+ ....................................................................................................................................................................  
+ ....................................................................................................................................................................  
+ ....................................................................................................................................................................  
+ ....................................................................................................................................................................  
+ ....................................................................................................................................................................  
+ ....................................................................................................................................................................  
+ ....................................................................................................................................................................  
+ ....................................................................................................................................................................  
+ ....................................................................................................................................................................  
+ ....................................................................................................................................................................  
+ ....................................................................................................................................................................  
+ ....................................................................................................................................................................  
+ ....................................................................................................................................................................  
+ ....................................................................................................................................................................  
+Hết. 
+Đây là phần đánh giá chuẩn đầu ra của đề thi theo đề cương chi tiết môn học (CĐRMH) (sinh 
+viên không cần quan tâm mục này trong quá trình làm bài). 
+Bảng chuẩn đầu ra môn học 
+CĐRMH  
+Mô tả  
+G1 
+Hiểu và ứng dụng các kiến thức về hệ điều hành 
+G2 
+Đọc hiểu tài liệu chuyên môn bằng ngoại ngữ 
+Duyệt đề của Khoa/Bộ Môn  
+ 
+ 
+ 
+ 
+ 
+Giảng viên ra đề

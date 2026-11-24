@@ -1,0 +1,471 @@
+{
+  "code": "W11",
+  "label": "Chương 9",
+  "source": "Lý thuyết/Week11-Chapter9 2024.pdf",
+  "sha256": "fa4cf039a2a1b2f51596d8d137773feddb034ec6340f002b7855cc70976260fa",
+  "size_bytes": 4648799,
+  "mtime_ns": 1795509758748377200,
+  "page_count": 57,
+  "extraction_version": "1.0",
+  "extractor_sha256": "4c43ae4da72e0a00b73d4bfcda33359ab13d8d3ecd468494f8b085cd028101f6",
+  "output": "Lý thuyết/pdf/W11.md",
+  "pages": [
+    {
+      "number": 1,
+      "title": "ĐẠI HỌC QUỐC GIA TP. HỒ CHÍ MINH",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 339
+    },
+    {
+      "number": 2,
+      "title": "Các nội dung đã học",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 361
+    },
+    {
+      "number": 3,
+      "title": "MỤC TIÊU",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 261
+    },
+    {
+      "number": 4,
+      "title": "NỘI DUNG",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 218
+    },
+    {
+      "number": 5,
+      "title": "Hệđiều hành Linux",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 104
+    },
+    {
+      "number": 6,
+      "title": "9.1.1 Tổng quan vềLinux",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 749
+    },
+    {
+      "number": 7,
+      "title": "9.1.1 Tổng quan vềLinux",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 545
+    },
+    {
+      "number": 8,
+      "title": "9.1.1 Tổng quan vềLinux",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 658
+    },
+    {
+      "number": 9,
+      "title": "9.1.3 Tổng quan vềLinux",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 817
+    },
+    {
+      "number": 10,
+      "title": "9.1.1 Tổng quan vềLinux",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 517
+    },
+    {
+      "number": 11,
+      "title": "9.1.1 Tổng quan vềLinux",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 443
+    },
+    {
+      "number": 12,
+      "title": "9.1.1 Tổng quan vềLinux",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 561
+    },
+    {
+      "number": 13,
+      "title": "Hệđiều hành Linux",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 120
+    },
+    {
+      "number": 14,
+      "title": "9.1.2 Các thành phần của hệthống Linux",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 217
+    },
+    {
+      "number": 15,
+      "title": "9.1.2 Các thành phần của hệthống Linux",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 740
+    },
+    {
+      "number": 16,
+      "title": "Hệđiều hành Linux",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 126
+    },
+    {
+      "number": 17,
+      "title": "9.1.3 Module nhân (kernel modules) của Linux",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 627
+    },
+    {
+      "number": 18,
+      "title": "9.1.3 Module nhân (kernel modules) của Linux",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 672
+    },
+    {
+      "number": 19,
+      "title": "Hệđiều hành Linux",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 117
+    },
+    {
+      "number": 20,
+      "title": "9.1.4 Quản lý tiến trình trên Linux",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 589
+    },
+    {
+      "number": 21,
+      "title": "9.1.4 Quản lý tiến trình trên Linux",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 503
+    },
+    {
+      "number": 22,
+      "title": "• Pipe: Cho phép tiến trình con kếthừa một kênh giao tiếp từtiến trình",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 705
+    },
+    {
+      "number": 23,
+      "title": "9.1.4 Quản lý tiến trình trên Linux",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 547
+    },
+    {
+      "number": 24,
+      "title": "Hệđiều hành Linux",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 111
+    },
+    {
+      "number": 25,
+      "title": "9.1.5 Quản lý bộnhớtrên Linux",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 293
+    },
+    {
+      "number": 26,
+      "title": "9.1.5 Quản lý bộnhớtrên Linux",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 721
+    },
+    {
+      "number": 27,
+      "title": "9.1.5 Quản lý bộnhớtrên Linux",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 634
+    },
+    {
+      "number": 28,
+      "title": "9.1.5 Quản lý bộnhớtrên Linux",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 626
+    },
+    {
+      "number": 29,
+      "title": "Hệđiều hành Linux",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 106
+    },
+    {
+      "number": 30,
+      "title": "9.1.6 Bộnhớảo trên Linux",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 652
+    },
+    {
+      "number": 31,
+      "title": "9.1.6 Bộnhớảo trên Linux",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 676
+    },
+    {
+      "number": 32,
+      "title": "Hệđiều hành Windows",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 119
+    },
+    {
+      "number": 33,
+      "title": "9.2.1 Lịch sửphát triển của Windows",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 564
+    },
+    {
+      "number": 34,
+      "title": "Hệđiều hành Windows",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 120
+    },
+    {
+      "number": 35,
+      "title": "9.2.2 Nguyên tắc thiết kếcủa Windows",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 487
+    },
+    {
+      "number": 36,
+      "title": "9.2.2 Nguyên tắc thiết kếcủa Windows",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 654
+    },
+    {
+      "number": 37,
+      "title": "9.2.2 Nguyên tắc thiết kếcủa Windows",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 491
+    },
+    {
+      "number": 38,
+      "title": "Hệđiều hành Windows",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 114
+    },
+    {
+      "number": 39,
+      "title": "9.2.3 Kiến trúc của Windows 10",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 488
+    },
+    {
+      "number": 40,
+      "title": "9.2.3 Kiến trúc của Windows 10",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 92
+    },
+    {
+      "number": 41,
+      "title": "9.2.3 Kiến trúc của Windows 10",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 232
+    },
+    {
+      "number": 42,
+      "title": "9.2.3 Kiến trúc của Windows 10",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 590
+    },
+    {
+      "number": 43,
+      "title": "9.2.3 Kiến trúc của Windows 10",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 639
+    },
+    {
+      "number": 44,
+      "title": "Hệđiều hành Windows",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 132
+    },
+    {
+      "number": 45,
+      "title": "9.2.4 Quản lý tiến trình/tiểu trình trên Windows",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 745
+    },
+    {
+      "number": 46,
+      "title": "9.2.4 Quản lý tiến trình/tiểu trình trên Windows",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 556
+    },
+    {
+      "number": 47,
+      "title": "9.2.4 Quản lý tiến trình/tiểu trình trên Windows",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 514
+    },
+    {
+      "number": 48,
+      "title": "Hệđiều hành Windows",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 121
+    },
+    {
+      "number": 49,
+      "title": "9.2.5 Quản lý bộnhớảo trên Windows 10",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 615
+    },
+    {
+      "number": 50,
+      "title": "9.2.5 Quản lý bộnhớảo trên Windows 10",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 99
+    },
+    {
+      "number": 51,
+      "title": "9.2.5 Quản lý bộnhớảo trên Windows 10",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 546
+    },
+    {
+      "number": 52,
+      "title": "Hệđiều hành Windows",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 109
+    },
+    {
+      "number": 53,
+      "title": "9.2.6 Các tác vụđiều hành",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 433
+    },
+    {
+      "number": 54,
+      "title": "9.2.6 Các tác vụđiều hành",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 725
+    },
+    {
+      "number": 55,
+      "title": "9.2.6 Các tác vụđiều hành",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 579
+    },
+    {
+      "number": 56,
+      "title": "Tóm tắt lại nội dung buổi học",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 276
+    },
+    {
+      "number": 57,
+      "title": "THẢO LUẬN",
+      "flags": [
+        "ít chữ hoặc không có chữ; xem PDF gốc",
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 71
+    }
+  ]
+}

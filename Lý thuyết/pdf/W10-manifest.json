@@ -1,0 +1,415 @@
+{
+  "code": "W10",
+  "label": "Chương 8",
+  "source": "Lý thuyết/#Week10-Chapter8 2024.pdf",
+  "sha256": "eead14a6fd55a17c7a0393ec8ea664cb03c49b135ea80dd0f331ac9f76cada53",
+  "size_bytes": 4971364,
+  "mtime_ns": 1795509608248434600,
+  "page_count": 50,
+  "extraction_version": "1.0",
+  "extractor_sha256": "4c43ae4da72e0a00b73d4bfcda33359ab13d8d3ecd468494f8b085cd028101f6",
+  "output": "Lý thuyết/pdf/W10.md",
+  "pages": [
+    {
+      "number": 1,
+      "title": "ĐẠI HỌC QUỐC GIA TP. HỒ CHÍ MINH",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 395
+    },
+    {
+      "number": 2,
+      "title": "Các nội dung đã học",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 361
+    },
+    {
+      "number": 3,
+      "title": "MỤC TIÊU",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 256
+    },
+    {
+      "number": 4,
+      "title": "NỘI DUNG",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 229
+    },
+    {
+      "number": 5,
+      "title": "Tổng quan về bộnhớảo",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 86
+    },
+    {
+      "number": 6,
+      "title": "Nhắc lại vềdynamic loading",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 677
+    },
+    {
+      "number": 7,
+      "title": "8.1 Tổng quan vềbộnhớ ảo",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 604
+    },
+    {
+      "number": 8,
+      "title": "8.1 Tổng quan vềbộnhớ ảo",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 420
+    },
+    {
+      "number": 9,
+      "title": "Cài đặt bộ nhớ ảo",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 106
+    },
+    {
+      "number": 10,
+      "title": "8.2.1 Cài đặt bộnhớ ảo",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 495
+    },
+    {
+      "number": 11,
+      "title": "8.2.1 Cài đặt bộnhớ ảo",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 104
+    },
+    {
+      "number": 12,
+      "title": "Cài đặt bộ nhớ ảo",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 111
+    },
+    {
+      "number": 13,
+      "title": "8.2.2 Phân trang theo yêu cầu",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 734
+    },
+    {
+      "number": 14,
+      "title": "8.2.2 Phân trang theo yêu cầu",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 119
+    },
+    {
+      "number": 15,
+      "title": "8.2.2 Phân trang theo yêu cầu",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 114
+    },
+    {
+      "number": 16,
+      "title": "Cài đặt bộ nhớ ảo",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 107
+    },
+    {
+      "number": 17,
+      "title": "8.2.3 Thay thếtrang nhớ",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 583
+    },
+    {
+      "number": 18,
+      "title": "8.2.3 Thay thếtrang nhớ",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 86
+    },
+    {
+      "number": 19,
+      "title": "8.2.3 Thay thếtrang nhớ",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 466
+    },
+    {
+      "number": 20,
+      "title": "8.2.3 Thay thếtrang nhớ",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 453
+    },
+    {
+      "number": 21,
+      "title": "Các giải thuật thay trang",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 123
+    },
+    {
+      "number": 22,
+      "title": "8.3.1 Các giải thuật thay trang",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 272
+    },
+    {
+      "number": 23,
+      "title": "Các giải thuật thay trang",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 124
+    },
+    {
+      "number": 24,
+      "title": "8.3.2 Giải thuật thay trang FIFO",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 281
+    },
+    {
+      "number": 25,
+      "title": "8.3.2 Giải thuật thay trang FIFO",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 389
+    },
+    {
+      "number": 26,
+      "title": "Các giải thuật thay trang",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 113
+    },
+    {
+      "number": 27,
+      "title": "8.3.3 Nghịch lý Belady",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 393
+    },
+    {
+      "number": 28,
+      "title": "8.3.3 Nghịch lý Belady",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 181
+    },
+    {
+      "number": 29,
+      "title": "Các giải thuật thay trang",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 123
+    },
+    {
+      "number": 30,
+      "title": "8.3.4 Giải thuật thay trang OPT",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 423
+    },
+    {
+      "number": 31,
+      "title": "Các giải thuật thay trang",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 123
+    },
+    {
+      "number": 32,
+      "title": "8.3.5 Giải thuật thay trang LRU",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 613
+    },
+    {
+      "number": 33,
+      "title": "8.3.5 Giải thuật thay trang LRU",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 141
+    },
+    {
+      "number": 34,
+      "title": "Vấn đề cấp phát Frames",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 127
+    },
+    {
+      "number": 35,
+      "title": "8.4.1 Số lượng frame cấp cho tiến trình",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 710
+    },
+    {
+      "number": 36,
+      "title": "Vấn đề cấp phát Frames",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 118
+    },
+    {
+      "number": 37,
+      "title": "8.4.2 Chiến lược cấp phát tĩnh",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 275
+    },
+    {
+      "number": 38,
+      "title": "Vấn đề Thrashing",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 117
+    },
+    {
+      "number": 39,
+      "title": "8.5.1 Trì trệtrên toàn bộhệthống",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 271
+    },
+    {
+      "number": 40,
+      "title": "Vấn đề Thrashing",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 102
+    },
+    {
+      "number": 41,
+      "title": "8.5.2 Mô hình cục bộ",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 535
+    },
+    {
+      "number": 42,
+      "title": "Vấn đề Thrashing",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 111
+    },
+    {
+      "number": 43,
+      "title": "8.5.3 Giải pháp tập làm việc",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 411
+    },
+    {
+      "number": 44,
+      "title": "8.5.3 Giải pháp tập làm việc",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 488
+    },
+    {
+      "number": 45,
+      "title": "8.5.3 Giải pháp tập làm việc",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 254
+    },
+    {
+      "number": 46,
+      "title": "8.5.3 Giải pháp tập làm việc",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 509
+    },
+    {
+      "number": 47,
+      "title": "8.5.3 Giải pháp tập làm việc",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 287
+    },
+    {
+      "number": 48,
+      "title": "Tóm tắt lại nội dung buổi học",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 247
+    },
+    {
+      "number": 49,
+      "title": "Bài tập",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 306
+    },
+    {
+      "number": 50,
+      "title": "THẢO LUẬN",
+      "flags": [
+        "ít chữ hoặc không có chữ; xem PDF gốc",
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 71
+    }
+  ]
+}

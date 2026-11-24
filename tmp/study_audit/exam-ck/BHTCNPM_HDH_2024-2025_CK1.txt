@@ -1,0 +1,396 @@
+--- PDF PAGE 1 ---
+Trang 1/5 - Đề số 1 
+ 
+TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN 
+ĐỀ THI CUỐI HK 1 (2024-2025) 
+KHOA KỸ THUẬT MÁY TÍNH 
+Môn thi: HỆ ĐIỀU HÀNH 
+Mã đề số: 1 
+Thời gian thi: 75 phút 
+ 
+(Sinh viên không được sử dụng tài liệu. Làm bài trực tiếp trên đề) 
+ 
+HỌ VÀ TÊN SV: ………………………………… 
+MSSV: ……………………………………………. 
+STT: ……………………………………………… 
+PHÒNG THI: ……………………………………. 
+ĐIỂM 
+ 
+CÁN BỘ COI THI 
+ 
+PHẦN 1. TRẮC NGHIỆM (6.0đ)  
+Sinh viên chọn câu trả lời chính xác nhất và điền vào bảng trả lời sau:  
+Câu 1 
+Câu 2 
+Câu 3 
+Câu 4 
+Câu 5 
+ 
+ 
+ 
+ 
+ 
+Câu 6 
+Câu 7 
+Câu 8 
+Câu 9 
+Câu 10 
+ 
+ 
+ 
+ 
+ 
+Câu 11 
+Câu 12 
+Câu 13 
+Câu 14 
+Câu 15 
+ 
+ 
+ 
+ 
+ 
+Câu 16 
+Câu 17 
+Câu 18 
+Câu 19 
+Câu 20 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Công cụ nào có chức năng quản lý các thông tin cấu hình (configuration) trên Windows? (G1) 
+A. Secure Kernel.  
+ 
+ 
+ 
+B. Registry. 
+ 
+C. Plug-and-Play Manager. 
+ 
+ 
+D. Local Procedure Call Facility. 
+2. Hai nhóm giải pháp đồng bộ Busy waiting và Sleep & Wake up khác nhau ở điểm nào? (G1) 
+A. Sự hỗ trợ từ phần cứng.   
+ 
+B. Số lượng tiến trình có thể đồng bộ. 
+C. Sự hỗ trợ của hệ điều hành. 
+ 
+D. Sử dụng cấm ngắt để cài đặt. 
+3. Chọn phát biểu SAI trong các phát biểu sau đây. (G1) 
+A. Phân trang theo yêu cầu là một kỹ thuật cài đặt bộ nhớ ảo. 
+B. Trong phân trang theo yêu cầu, các trang của tiến trình chỉ được nạp vào bộ nhớ chính khi được yêu 
+cầu. 
+C. Ưu điểm của bộ nhớ ảo là cho phép một tiến trình có thể thực thi ngay cả khi kích thước của nó lớn 
+hơn bộ nhớ thực. 
+D. Nghịch lý Belady là tình trạng số lỗi trang giảm mặc dù tiến trình đã được cấp nhiều khung trang 
+hơn. 
+4. Chiến lược worst-fit sẽ chọn khối nhớ trống như thế nào? (G1) 
+A. Chọn khối nhớ trống nhỏ nhất.  
+ 
+B. Chọn khối nhớ trống phù hợp đầu tiên kể từ đầu bộ nhớ.  
+C. Chọn khối nhớ trống phù hợp đầu tiên kể từ vị trí cấp phát cuối cùng.   
+D. Chọn khối nhớ trống lớn nhất.
+
+--- PDF PAGE 2 ---
+Trang 2/5 - Đề số 1 
+ 
+5. Xét một hệ thống có bộ nhớ được cấp phát theo cơ chế phân trang với kích thước trang và khung 
+trang là 2048. Biết các trang 1, 2, 3, 4 của bộ nhớ luận lý lần lượt được nạp vào khung trang 3, 2, 4, 1 
+của bộ nhớ vật lý. Hỏi địa chỉ vật lý 6854 được chuyển thành địa chỉ luận lý bao nhiêu? (G1) 
+A. 8902 
+ 
+B. 4096 
+ 
+C. 710  
+ 
+D. 2758 
+Sử dụng các dữ liệu sau để trả lời câu hỏi 6, 7: 
+Xét một hệ thống máy tính có 5 tiến trình: P1, P2, P3, P4, P5 và 4 loại tài nguyên: R1, R2, R3, R4. Tại 
+thời điểm t0, trạng thái của hệ thống như sau: 
+ 
+Allocation 
+Max 
+Tiến trình  R1  
+R2  
+R3  
+R4  
+R1  
+R2  
+R3  
+R4 
+P1 
+2 
+3 
+2 
+1 
+4 
+7 
+4 
+3 
+P2 
+3 
+2 
+4 
+1 
+7 
+2 
+4 
+2 
+P3 
+5 
+2 
+1 
+3 
+7 
+6 
+5 
+7 
+P4 
+3 
+2 
+3 
+2 
+3 
+4 
+4 
+3 
+P5 
+1 
+3 
+5 
+4 
+3 
+5 
+7 
+4 
+6. Lựa chọn nào dưới đây là một chuỗi an toàn của hệ thống? (G1) 
+A. <P5, P2, P4, P3, P1> 
+ 
+ 
+B. <P2, P1, P3, P4, P5> 
+C. <P4, P3, P2, P5, P1> 
+ 
+ 
+D. <P1, P4, P2, P5, P3>   
+7. Yêu cầu cấp phát nào sau đây sẽ được đáp ứng? (G1) 
+A. P1 yêu cầu thêm tài nguyên (3, 4, 1, 1) 
+B. P3 yêu cầu thêm tài nguyên (1, 2, 2, 2) 
+C. P5 yêu cầu thêm tài nguyên (3, 2, 1, 1) 
+D. P1 yêu cầu thêm tài nguyên (1, 0, 2, 2)   
+8. Chọn phát biểu SAI về semaphore? (G1) 
+A. Giá trị của semaphore S, nếu là số dương, thể hiện số lần mà các tiến trình/tiểu trình có thể thực thi 
+wait(S) mà không bị blocked. 
+B. Thao tác signal() làm giảm giá trị của semaphore đi 1.  
+C. Khi hiện thực semaphore không busy waiting, mỗi semaphore được gắn với một hàng đợi. 
+D. Binary semaphore có tác dụng giống với khóa mutex. 
+9. Chọn phát biểu SAI về mối quan hệ giữa đồ thị cấp phát tài nguyên và deadlock? (G1) 
+A. Nếu đồ thị cấp phát tài nguyên không chứa chu trình thì không có deadlock.  
+B. Nếu đồ thị cấp phát tài nguyên có chu trình và mỗi loại tài nguyên chỉ có một thực thể thì có 
+deadlock xảy ra trong hệ thống. 
+C. Nếu đồ thị cấp phát tài nguyên có chu trình và mỗi loại tài nguyên có nhiều thực thể thì có thể xảy ra 
+deadlock trong hệ thống.  
+D. Nếu đồ thị cấp phát tài nguyên có chu trình thì có deadlock xảy ra trong hệ thống. 
+10. Hai mô hình bộ nhớ phổ biến là những mô hình nào? (G1) 
+A. Mô hình bộ nhớ ngắn và mô hình bộ nhớ dài.  
+B. Mô hình bộ nhớ được sắp xếp mạnh và mô hình bộ nhớ được sắp xếp yếu.  
+ 
+C. Mô hình bộ nhớ được sắp xếp xa và mô hình bộ nhớ được sắp xếp gần.  
+ 
+D. Mô hình bộ nhớ được sắp xếp và mô hình bộ nhớ không được sắp xếp. 
+ 
+11. Xét một hệ thống sử dụng kỹ thuật phân trang với bảng trang được lưu trữ trong bộ nhớ chính. Nếu 
+sử dụng TLBs với hit ratio α = 0.95, thời gian một chu kỳ truy xuất bộ nhớ (x) là 160ns thì thời gian truy 
+xuất bộ nhớ trong hệ thống (effective access time – EAT) là 190ns. Hỏi thời gian tìm trong TLBs () là 
+bao nhiêu? (G1) 
+A. 30ns 
+ 
+B. 22ns 
+ 
+C. 152ns 
+ 
+D. 320ns 
+Available 
+R1  
+R2  
+R3  
+R4 
+2 
+2 
+4 
+4
+
+--- PDF PAGE 3 ---
+Trang 3/5 - Đề số 1 
+ 
+12. Giải pháp nào sau đây cho bài toán đồng bộ các triết gia ăn tối (Dining-Philosopher) có thể gây ra 
+deadlock? (G1) 
+A. Chỉ cho phép tối đa 4 triết gia ngồi vào bàn. 
+B. Chỉ cho phép triết gia cầm đũa khi cả 2 chiếc đũa đã sẵn sàng  
+D. Giải pháp bất đối xứng: triết gia ngồi vị trí lẻ cầm đũa bên trái trước, rồi sau đó cầm đũa bên phải; 
+trong khi triết gia ngồi vị trí chẵn cầm đũa bên phải trước, rồi sau đó cầm đũa bên trái.  
+D. Các triết gia cầm đũa bên trái trước, sau đó cầm đũa bên phải (mà không cần kiểm tra từng chiếc đũa 
+đã sẵn dàng chưa). 
+13. Chọn phát biểu ĐÚNG về giải thuật thay thế trang FIFO? (G1) 
+A. Giải thuật FIFO cần sự hỗ trợ của phần cứng cho việc tìm kiếm.  Ít CPU cung cấp đủ sự hỗ trợ phần 
+cứng cho giải thuật FIFO. 
+ 
+B. Giải thuật thay trang FIFO thay thế trang nhớ được tham chiếu nhiều lần nhất. 
+C. Giải thuật thay trang FIFO thay thế trang nhớ có thời gian được nạp vào bộ nhớ sớm nhất trong các 
+trang nhớ. 
+D. Giải thuật thay trang FIFO thay thế trang nhớ sẽ được tham chiếu sớm nhất trong tương lai.  
+14. Chọn phát biểu SAI về monitor? (G1) 
+A. Tiến trình “vào monitor” bằng cách gọi một trong các thủ tục được định nghĩa trong monitor.  
+B. Chỉ có một tiến trình có thể vào monitor tại một thời điểm.  
+C. Các biến nội bộ của monitor được khai báo bên trong monitor và chỉ có thể được truy 
+cập bởi các hàm nội bộ trong monitor. 
+ 
+ 
+ 
+ 
+D. Các biến điều kiện (condition variable) được sử dụng nhằm cho phép tiến trình đợi “trong monitor” 
+và có thể được truy cập từ bên ngoài monitor.  
+15. Một bộ vi xử lý có không gian địa chỉ ảo 64 bit. Hỏi bảng trang có bao nhiêu mục (entry) nếu kích 
+thước bảng trang là 1 MB và kích thước của mỗi mục là 16 bit? (G1) 
+A. 219  
+ 
+B. 218  
+ 
+C. 220  
+ 
+D. 216 
+16. Linux hỗ trợ bao nhiêu loại module nhân? (G1) 
+A. 4 
+ 
+ 
+B. 3 
+ 
+ 
+C. 5 
+ 
+ 
+D. 6 
+17. Lựa chọn nào thể hiện thứ tự đúng các bước hoạt động của PFSR? (G1) 
+(1) Phát ra một yêu cầu đọc đĩa để nạp trang được tham chiếu vào một frame trống; trong khi đợi I/O, 
+một tiến trình khác được cấp CPU để thực thi. 
+(2) Sau khi I/O hoàn tất, đĩa gây ra một ngắt đến hệ điều hành; PFSR cập nhật page table và chuyển tiến 
+trình về trạng thái ready. 
+(3) Chuyển tiến trình về trạng thái blocked. 
+A. (3) → (1) → (2) 
+ 
+ 
+ 
+B. (1) → (2) → (3) 
+C. (3) → (2) → (1) 
+ 
+ 
+ 
+D. (2) → (1) → (3) 
+18. Trong trường hợp mỗi loại tài nguyên có nhiều thực thể, giải thuật phát hiện deadlock có thời gian 
+chạy là O(m·n2). Chọn phát biểu ĐÚNG về ý nghĩa của hai giá trị m, n? (G1) 
+A. n là số loại tài nguyên; m là số tiến trình.  
+B. n là số tiến trình; m là số loại tài nguyên. 
+C. m là số thực thể sẵn sàng của mỗi loại tài nguyên; n là số tiến trình. 
+D. n là số thực thể sẵn sàng của mỗi loại tài nguyên; m là số tiến trình.  
+19. Cơ chế quản lý bộ nhớ phân chia cố định (fixed partitioning) có đặc điểm nào dưới đây? (G1) 
+A. Gây ra hiện tượng phân mảnh nội. 
+ 
+B. Số lượng partition không cố định. 
+C. Các partition có thể có kích thước khác nhau. 
+D. Mỗi tiến trình được cấp phát chính xác dung lượng bộ nhớ cần thiết.
+
+--- PDF PAGE 4 ---
+Trang 4/5 - Đề số 1 
+ 
+20. Lời giải cho bài toán vùng tranh chấp KHÔNG cần phải đảm bảo yêu cầu nào trong các lựa chọn 
+bên dưới? (G1) 
+A. Khi một tiến trình P đang thực thi trong vùng tranh chấp (CS) của nó thì không có tiến trình Q nào 
+khác đang thực thi trong CS của Q. 
+B. Một tiến trình tạm dừng bên ngoài vùng tranh chấp không được ngăn cản các tiến trình khác vào 
+vùng tranh chấp. 
+C. Các tiến trình phải liên tục kiểm tra điều kiện để được vào vùng tranh chấp. 
+D. Mỗi tiến trình chỉ phải chờ để được vào vùng tranh chấp trong một khoảng thời gian có hạn định nào 
+đó. Không xảy ra tình trạng đói tài nguyên (starvation). 
+ 
+PHẦN 2. TỰ LUẬN – (G1)  
+Câu 1 (1đ): Xác định các phát biểu dưới đây là ĐÚNG hay SAI? (Lưu ý: Chỉ cần trả lời là Đúng hoặc 
+Sai, không cần giải thích gì thêm). 
+a. Giải thuật Peterson là một giải pháp đồng bộ dựa trên phần cứng.   
+Trả lời: …………………………………………………………………………………………………….. 
+b. Nếu hệ thống đang ở trạng thái không an toàn thì có deadlock xảy ra.  
+Trả lời: …………………………………………………………………………………………………….. 
+c. Cơ chế phân trang là cơ chế cấp phát bộ nhớ không liên tục.  
+Trả lời: …………………………………………………………………………………………………….. 
+d. Giải pháp tập làm việc loại trừ được tình trạng trì trệ mà vẫn đảm bảo mức độ đa chương.  
+Trả lời: …………………………………………………………………………………………………….. 
+Câu 2 (1đ): Trả lời ngắn gọn các câu hỏi sau bằng tiếng Anh. Câu trả lời bao gồm tối đa 2 từ (ví dụ: 
+critical section, semaphore, …).  
+a. Thuật ngữ nào được dùng để chỉ một tập các đặc điểm mà hệ thống phải thỏa mãn để đảm bảo tiến 
+trình thực sự chạy? 
+Trả lời: …………………………………………………………………………………………………….. 
+b. Hiện tượng các trang nhớ của một tiến trình bị hoán chuyển vào/ra liên tục được gọi là gì?  
+Trả lời: …………………………………………………………………………………………………….. 
+Câu 3 (0.5đ):  
+Cơ chế kết khối (compaction) được sử dụng để làm gì?  
+Trả lời:  .......................................................................................................................................................... 
+ ....................................................................................................................................................................... 
+ ....................................................................................................................................................................... 
+ ....................................................................................................................................................................... 
+ ....................................................................................................................................................................... 
+ ....................................................................................................................................................................... 
+Câu 4 (1.5đ):  
+Giả sử một tiến trình được cấp 4 khung trang trong bộ nhớ vật lý và 8 trang trong bộ nhớ ảo. Tại thời điểm 
+nạp tiến trình vào, 4 khung trang trên bộ nhớ vật lý này đang trống. Tiến trình truy xuất 8 trang (1, 2, 3, 
+4, 5, 6, 7, 8) trong bộ nhớ ảo theo thứ tự như sau:  
+2 3 1 4 8 5 8 2 6 1 3 7 8 2 6 2 4 8 1 5 
+a. (0.5đ) Tại thời điểm tiến trình truy xuất trang nhớ số 6 lần đầu tiên, trang nhớ nào sẽ được chọn làm 
+trang hy sinh (victim page), nếu hệ điều hành thay trang theo giải thuật OPT? 
+Trả lời:  ..........................................................................................................................................................
+
+--- PDF PAGE 5 ---
+Trang 5/5 - Đề số 1 
+ 
+b. (1đ) Vẽ bảng minh họa thuật toán và tính số lỗi trang khi hệ điều hành thay trang theo giải thuật LRU. 
+ ....................................................................................................................................................................... 
+ ....................................................................................................................................................................... 
+ ....................................................................................................................................................................... 
+ ....................................................................................................................................................................... 
+ ....................................................................................................................................................................... 
+ ....................................................................................................................................................................... 
+ ....................................................................................................................................................................... 
+ ....................................................................................................................................................................... 
+ ....................................................................................................................................................................... 
+ ....................................................................................................................................................................... 
+ ....................................................................................................................................................................... 
+ ....................................................................................................................................................................... 
+ ....................................................................................................................................................................... 
+ ....................................................................................................................................................................... 
+ ....................................................................................................................................................................... 
+ ....................................................................................................................................................................... 
+ ....................................................................................................................................................................... 
+ ....................................................................................................................................................................... 
+ ....................................................................................................................................................................... 
+ ....................................................................................................................................................................... 
+ ....................................................................................................................................................................... 
+ ....................................................................................................................................................................... 
+ ....................................................................................................................................................................... 
+ ....................................................................................................................................................................... 
+Hết. 
+Đây là phần đánh giá chuẩn đầu ra của đề thi theo đề cương chi tiết môn học (CĐRMH) (sinh 
+viên không cần quan tâm mục này trong quá trình làm bài). 
+Bảng chuẩn đầu ra môn học 
+CĐRMH  
+Mô tả  
+G1 
+Nắm vững kiến thức nền tảng về lĩnh vực CNTT 
+G2 
+Giao tiếp, thảo luận được với cá nhân và nhóm tập thể 
+Duyệt đề của Khoa/Bộ Môn  
+ 
+ 
+ 
+ 
+ 
+Giảng viên ra đề

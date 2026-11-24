@@ -1,0 +1,594 @@
+{
+  "code": "W09",
+  "label": "Chương 7",
+  "source": "Lý thuyết/#Week09-Chapter7 2024.pdf",
+  "sha256": "4b622457cd5592dc83afce32f8ca5ddf1c9e9bca6defdbed36150e80f0717177",
+  "size_bytes": 7459415,
+  "mtime_ns": 1795509593159522800,
+  "page_count": 72,
+  "extraction_version": "1.0",
+  "extractor_sha256": "4c43ae4da72e0a00b73d4bfcda33359ab13d8d3ecd468494f8b085cd028101f6",
+  "output": "Lý thuyết/pdf/W09.md",
+  "pages": [
+    {
+      "number": 1,
+      "title": "ĐẠI HỌC QUỐC GIA TP. HỒ CHÍ MINH",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 388
+    },
+    {
+      "number": 2,
+      "title": "Các nội dung đã học",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 361
+    },
+    {
+      "number": 3,
+      "title": "MỤC TIÊU",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 226
+    },
+    {
+      "number": 4,
+      "title": "NỘI DUNG",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 199
+    },
+    {
+      "number": 5,
+      "title": "KHÁI NIỆM CƠ SỞ",
+      "flags": [
+        "ít chữ hoặc không có chữ; xem PDF gốc",
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 80
+    },
+    {
+      "number": 6,
+      "title": "7.1. Khái niệm cơ sở",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 345
+    },
+    {
+      "number": 7,
+      "title": "7.1. Khái niệm cơ sở",
+      "flags": [
+        "ít chữ hoặc không có chữ; xem PDF gốc",
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 81
+    },
+    {
+      "number": 8,
+      "title": "7.1. Khái niệm cơ sở",
+      "flags": [
+        "ít chữ hoặc không có chữ; xem PDF gốc",
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 81
+    },
+    {
+      "number": 9,
+      "title": "7.1. Khái niệm cơ sở",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 457
+    },
+    {
+      "number": 10,
+      "title": "7.1. Khái niệm cơ sở",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 371
+    },
+    {
+      "number": 11,
+      "title": "CÁC KIỂU ĐỊA CHỈ NHỚ",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 86
+    },
+    {
+      "number": 12,
+      "title": "7.2. Các kiểu địa chỉnhớ",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 788
+    },
+    {
+      "number": 13,
+      "title": "7.2. Các kiểu địa chỉnhớ",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 86
+    },
+    {
+      "number": 14,
+      "title": "7.2. Các kiểu địa chỉnhớ",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 251
+    },
+    {
+      "number": 15,
+      "title": "Cơ chế thực hiện linking",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 114
+    },
+    {
+      "number": 16,
+      "title": "Nạp chương trình vào bộ nhớ",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 617
+    },
+    {
+      "number": 17,
+      "title": "CHUYỂN ĐỔI ĐỊA CHỈ",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 110
+    },
+    {
+      "number": 18,
+      "title": "7.3.1. Chuyển đổi địa chỉ",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 585
+    },
+    {
+      "number": 19,
+      "title": "7.3.1. Chuyển đổi địa chỉ",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 649
+    },
+    {
+      "number": 20,
+      "title": "7.3.1. Chuyển đổi địa chỉ",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 134
+    },
+    {
+      "number": 21,
+      "title": "7.3.1. Chuyển đổi địa chỉ",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 133
+    },
+    {
+      "number": 22,
+      "title": "7.3.1. Chuyển đổi địa chỉ",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 533
+    },
+    {
+      "number": 23,
+      "title": "CHUYỂN ĐỔI ĐỊA CHỈ",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 107
+    },
+    {
+      "number": 24,
+      "title": "7.3.2. Dynamic linking",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 743
+    },
+    {
+      "number": 25,
+      "title": "7.3.2. Dynamic linking",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 751
+    },
+    {
+      "number": 26,
+      "title": "CHUYỂN ĐỔI ĐỊA CHỈ",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 107
+    },
+    {
+      "number": 27,
+      "title": "7.3.3. Dynamic loading",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 682
+    },
+    {
+      "number": 28,
+      "title": "MÔ HÌNH QUẢN LÝ BỘ NHỚ",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 88
+    },
+    {
+      "number": 29,
+      "title": "7.4. Mô hình quản lý bộnhớ",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 436
+    },
+    {
+      "number": 30,
+      "title": "7.4. Mô hình quản lý bộnhớ",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 88
+    },
+    {
+      "number": 31,
+      "title": "7.4. Mô hình quản lý bộnhớ",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 774
+    },
+    {
+      "number": 32,
+      "title": "7.4. Mô hình quản lý bộnhớ",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 102
+    },
+    {
+      "number": 33,
+      "title": "MÔ HÌNH QUẢN LÝ BỘ NHỚ",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 114
+    },
+    {
+      "number": 34,
+      "title": "7.4.1. Fixed partitioning",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 546
+    },
+    {
+      "number": 35,
+      "title": "7.4.1. Fixed partitioning - Chiến lược placement",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 681
+    },
+    {
+      "number": 36,
+      "title": "7.4.1. Fixed partitioning - Chiến lược placement",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 300
+    },
+    {
+      "number": 37,
+      "title": "MÔ HÌNH QUẢN LÝ BỘ NHỚ",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 116
+    },
+    {
+      "number": 38,
+      "title": "7.4.2. Dynamic partitioning",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 281
+    },
+    {
+      "number": 39,
+      "title": "7.4.2. Dynamic partitioning - Chiến lược placement",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 493
+    },
+    {
+      "number": 40,
+      "title": "CƠ CHẾ PHÂN TRANG",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 83
+    },
+    {
+      "number": 41,
+      "title": "7.5. Cơ chế phân trang",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 574
+    },
+    {
+      "number": 42,
+      "title": "7.5. Cơ chế phân trang",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 84
+    },
+    {
+      "number": 43,
+      "title": "CƠ CHẾ PHÂN TRANG",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 122
+    },
+    {
+      "number": 44,
+      "title": "7.5.1. Chuyển đổi địa chỉtrong paging",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 498
+    },
+    {
+      "number": 45,
+      "title": "7.5.1. Chuyển đổi địa chỉtrong paging",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 99
+    },
+    {
+      "number": 46,
+      "title": "7.5.1. Chuyển đổi địa chỉtrong paging",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 99
+    },
+    {
+      "number": 47,
+      "title": "7.5. Cơ chế phân trang",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 119
+    },
+    {
+      "number": 48,
+      "title": "CƠ CHẾ PHÂN TRANG",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 109
+    },
+    {
+      "number": 49,
+      "title": "7.5.2. Cài đặt bảng trang (paging hardware)",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 744
+    },
+    {
+      "number": 50,
+      "title": "7.5.2. Cài đặt bảng trang",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 134
+    },
+    {
+      "number": 51,
+      "title": "7.5.2. Cài đặt bảng trang",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 96
+    },
+    {
+      "number": 52,
+      "title": "CƠ CHẾ PHÂN TRANG",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 118
+    },
+    {
+      "number": 53,
+      "title": "7.5.3. Effective access time (EAT)",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 614
+    },
+    {
+      "number": 54,
+      "title": "7.5.3. Effective access time (EAT)",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 444
+    },
+    {
+      "number": 55,
+      "title": "CƠ CHẾ PHÂN TRANG",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 109
+    },
+    {
+      "number": 56,
+      "title": "7.5.4. Tổchức bảng trang",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 386
+    },
+    {
+      "number": 57,
+      "title": "7.5.4. Tổchức bảng trang",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 86
+    },
+    {
+      "number": 58,
+      "title": "7.5.4. Tổchức bảng trang",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 191
+    },
+    {
+      "number": 59,
+      "title": "CƠ CHẾ PHÂN TRANG",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 104
+    },
+    {
+      "number": 60,
+      "title": "7.5.5. Bảo vệbộnhớ",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 524
+    },
+    {
+      "number": 61,
+      "title": "Bảo vệ bằng",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 371
+    },
+    {
+      "number": 62,
+      "title": "7.5.5. Bảo vệbộnhớ- Chia sẻcác trang nhớ",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 102
+    },
+    {
+      "number": 63,
+      "title": "Cơ chế hoán vị (swapping)",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 94
+    },
+    {
+      "number": 64,
+      "title": "7.6. Cơ chếhoán vị(swapping)",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 678
+    },
+    {
+      "number": 65,
+      "title": "7.6. Cơ chếhoán vị(swapping)",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 90
+    },
+    {
+      "number": 66,
+      "title": "Tóm tắt lại nội dung buổi học",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 215
+    },
+    {
+      "number": 67,
+      "title": "Bài tập 1",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 433
+    },
+    {
+      "number": 68,
+      "title": "Bài tập 2",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 257
+    },
+    {
+      "number": 69,
+      "title": "Bài tập 3",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 454
+    },
+    {
+      "number": 70,
+      "title": "Bài tập 4",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 330
+    },
+    {
+      "number": 71,
+      "title": "Bài tập 5",
+      "flags": [
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 387
+    },
+    {
+      "number": 72,
+      "title": "THẢO LUẬN",
+      "flags": [
+        "ít chữ hoặc không có chữ; xem PDF gốc",
+        "có ảnh; xem PDF gốc"
+      ],
+      "text_chars": 71
+    }
+  ]
+}

@@ -6,6 +6,11 @@ Mở [mục lục học](output/THU_TU_HOC_HDH.md) để chọn phần. Bài so�
 - [Chương 2 — 2.1–2.5](output/chuong-2/README.md).
 - [Chương 3 — mục lục hai phần](output/chuong-3/README.md).
 - [Chương 4 — mục lục ba phần và giới hạn slide](output/chuong-4/README.md).
+- [Chương 5 — Đồng bộ hóa tiến trình](output/chuong-5/README.md).
+- [Chương 6 — Tắc nghẽn (Deadlock)](output/chuong-6/README.md).
+- [Chương 7 — Quản lý bộ nhớ](output/chuong-7/README.md).
+- [Chương 8 — Bộ nhớ ảo](output/chuong-8/README.md).
+- [Chương 9 — Hệ điều hành Linux và Windows](output/chuong-9/README.md).
 
 | Nơi lưu | Công dụng |
 |---|---|
